@@ -10,23 +10,6 @@ The project uses a dataset named 'bankloans.csv' containing information about ba
 Code Structure
 The code is divided into several sections, each performing a specific task:
 
-Importing the necessary libraries
-Loading the dataset
-Checking for missing values
-Calculating and visualizing the correlation matrix
-Analyzing the correlation with the target variable
-Checking for multicollinearity using VIF (Variance Inflation Factor)
-Examining class imbalance in the target variable
-Detecting outliers using z-scores
-Building a logistic regression model to predict default
-Performing feature importance analysis using permutation importance
-Building a Random Forest Classifier model with hyperparameter tuning
-Building a Support Vector Machine (SVM) model with hyperparameter tuning
-Building a Logistic Regression model
-Evaluating and comparing the performance of the models using various metrics
-
-
-
 The analysis includes
 - Data cleaning
 - Exploratory data analysis (EDA)
