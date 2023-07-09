@@ -3,30 +3,6 @@
 
 This project focuses on credit risk assessment using various machine learning models. The goal is to analyze a dataset of bank loans and build models to predict the likelihood of default based on different features.
 
-Dependencies
-The following Python libraries are required for running the code:
-
-numpy
-pandas
-plotly.express
-plotly.figure_factory
-statsmodels.api
-tabulate
-scipy.stats
-statsmodels.stats.outliers_influence
-sklearn
-Install the dependencies using the package manager pip.
-
-Copy code
-pip install numpy pandas plotly statsmodels tabulate scipy scikit-learn
-Getting Started
-Clone the repository or download the project files.
-
-Open the project in your preferred Python development environment.
-
-Make sure the required dependencies are installed.
-
-Run the code in the provided Python file or execute the code blocks sequentially in a Python notebook.
 
 Data
 The project uses a dataset named 'bankloans.csv' containing information about bank loans. The dataset includes various features such as age, education level, employment status, income, debt-to-income ratio, credit and other debts, and the default status.
