@@ -1,4 +1,5 @@
-Credit Risk Assessment for Bank Loans :
+
+[Credit Risk Analysis for Extending Bank Loans Dataset](https://www.kaggle.com/datasets/atulmittal199174/credit-risk-analysis-for-extending-bank-loans)
 
 This project focuses on credit risk assessment using various machine learning models. The goal is to analyze a dataset of bank loans and build models to predict the likelihood of default based on different features.
 
@@ -49,9 +50,6 @@ Building a Logistic Regression model
 Evaluating and comparing the performance of the models using various metrics
 
 
-
-
-[Credit Risk Analysis for Extending Bank Loans Dataset](https://www.kaggle.com/datasets/atulmittal199174/credit-risk-analysis-for-extending-bank-loans)
 
 The analysis includes
 - Data cleaning
