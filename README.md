@@ -1,4 +1,5 @@
-Credit Risk Assessment
+Credit Risk Assessment for Bank Loans :
+
 This project focuses on credit risk assessment using various machine learning models. The goal is to analyze a dataset of bank loans and build models to predict the likelihood of default based on different features.
 
 Dependencies
